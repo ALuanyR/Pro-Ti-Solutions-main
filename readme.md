@@ -20,4 +20,4 @@ Este formulário permite que os usuários preencham informações de contato, co
 
 ## Autor
 
-[Luany Rudic](https://github.com/ALuanyR)
+[Luany Rudic](https://www.linkedin.com/in/luany-rudic/)
