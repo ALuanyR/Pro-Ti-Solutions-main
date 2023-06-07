@@ -4,6 +4,10 @@ Projeto elaborado pelos alunos da Instituição de Ensino UNIVERSIDADE NOVE DE J
 
 Tecnologia em Análise e Desenvolvimento de Sistema - 3º Semestre
 
+Nome: Felipe Furnier Aguiar
+Email:felipe.furnier@uni9.edu.br
+R.A.: 3022106364
+
 Nome: Gustavo Vilela dos Santos
 Email: gustavo.vilela@uni9.edu.br
 R.A.: 3022106797
