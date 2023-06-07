@@ -1,23 +1,25 @@
-# Formulário HTML
+Criado em 2023.
 
-Este é um exemplo de código HTML para um formulário de contato simples.
+Projeto elaborado pelos alunos da Instituição de Ensino UNIVERSIDADE NOVE DE JULHO:
 
-## Descrição
+Tecnologia em Análise e Desenvolvimento de Sistema - 3º Semestre
 
-Este formulário permite que os usuários preencham informações de contato, como nome, email, telefone, nome da empresa e uma mensagem. Quando o usuário clica no botão "Enviar", uma função JavaScript é acionada para exibir um alerta com o nome fornecido.
+Nome: Gustavo Vilela dos Santos
+Email: gustavo.vilela@uni9.edu.br
+R.A.: 3022106797
 
-## Como usar
+Nome: Igor Silva dos Santos
+R.A.: 3022106046
+Email: igoritoc5@uni9.edu.br
 
-1. Faça o download dos arquivos `projetoforms.css` e `script.js`.
-2. Coloque os arquivos na mesma pasta que este arquivo HTML.
-3. Abra o arquivo HTML em um navegador da web.
+Nome: Luany Rudic dos Santos 
+Email: luany-r@uni9.edu.br 
+RA: 3022102973
 
-## Estrutura do arquivo
+Nome : Lucas Coutinho Monteiro 
+E-mail: lm.coutinho@uni9.edu.br
+RA : 3022105620
 
-- `index.html`: O arquivo HTML principal que contém a estrutura e os elementos do formulário.
-- `projetoforms.css`: O arquivo CSS que estiliza o formulário.
-- `script.js`: O arquivo JavaScript com a função para exibir o alerta.
-
-## Autor
-
-[Luany Rudic](https://www.linkedin.com/in/luany-rudic/)
+Nome: Quézia Carmona Dalessi
+Email:queziadalessi@uni9.edu.br 
+R.A.: 3022105854
